@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Finish Family man season 2",
+      "day": "6th June, 2021",
+      "remainder": false
+    },
+    {
+      "id": 3,
+      "text": "Get a basic grip on React, Node.js",
+      "day": "10th of this month",
+      "remainder": true
+    },
+    {
+      "text": "new task ",
+      "day": "asdf",
+      "remainder": true,
+      "id": 4
+    },
+    {
+      "text": "new task 2",
+      "day": "tomorrow",
+      "remainder": true,
+      "id": 5
+    }
+  ]
+}
